@@ -1,6 +1,6 @@
 //My first C program
 
-<stdio.h>
+#include<stdio.h>
 void main(){
 println("Hello World!");
 }
