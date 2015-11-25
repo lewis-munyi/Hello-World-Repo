@@ -1,7 +1,6 @@
 //My first C program
 #include<stdio.h>
 
-int main (void) {
+void main () {
   puts("Hello World!");
-  return 0;
-}
+  }
